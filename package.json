@@ -1,0 +1,16 @@
+{
+  "name": "wootalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "request": "^2.58.0",
+    "ws": "^0.7.2"
+  }
+}
